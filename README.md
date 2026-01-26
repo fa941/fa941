@@ -23,3 +23,5 @@
 ###
 
 <div align="left">
+I am a Junior Data Analyst and Biostatistics Specialist passionate about transforming raw data into actionable insights that support smarter, data-driven decisions.  
+With a strong background in **Biostatistics and Statistics**, and an aspiration to grow in **Data Science, Machine Learning, and Artificial Intelligence**, I enjoy exploring data, visualizing patterns, and telling meaningful stories through numbers using **Python, SQL, Power BI, and Excel**.
