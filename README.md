@@ -27,6 +27,7 @@ I am a Junior Data Analyst and Biostatistics Specialist passionate about transfo
 With a strong background in **Biostatistics and Statistics**, and an aspiration to grow in **Data Science, Machine Learning, and Artificial Intelligence**, 
 I enjoy exploring data, visualizing patterns, and telling meaningful stories through numbers using **Python, SQL, Power BI, and Excel**.
 
+
   
 - 🔭 **Currently working on:** Data dashboards & business insights  
 - 🌱 **Currently learning:** SQL and Python  
@@ -35,22 +36,6 @@ I enjoy exploring data, visualizing patterns, and telling meaningful stories thr
 - 📄 Know more about my experiences:👉 [View My CV]()
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
 </div>
 
 ---
