@@ -8,5 +8,19 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/201067507316)
 
 </div>
------
 
+------
+
+<div align="left">
+
+## 🚀 About Me  
+
+</div>
+
+###
+
+<img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="data gif"/>
+
+###
+
+<div align="left">
