@@ -3,9 +3,21 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faten-ahmed-analyst)
-[![Email](https://img.shields.io/badge/-Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fatenel9any@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201067507316)
+<p align="center">
+
+<a href="https://www.linkedin.com/in/faten-ahmed-analyst">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:fatenel9any@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://wa.me/201067507316">
+  <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+</p>
 
 </div>
 
