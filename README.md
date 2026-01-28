@@ -39,3 +39,15 @@ I enjoy exploring data, visualizing patterns, and telling meaningful stories thr
 </div>
 
 ---
+
+### Tools & Technologies
+<div align="left">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="40" alt="SQL logo" />
+<img width="12" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="40" alt="Excel logo" />
+
+  </div>
+
+---
