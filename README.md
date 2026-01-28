@@ -46,7 +46,8 @@ I enjoy exploring data, visualizing patterns, and telling meaningful stories thr
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="40" alt="SQL logo" />
 <img width="12" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="40" alt="Excel logo" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2019.svg" height="40" alt="Microsoft Excel logo" />
+
 
   </div>
 
