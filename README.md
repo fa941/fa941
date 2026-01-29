@@ -70,4 +70,25 @@ Built an interactive Power BI dashboard that identified high order cancellation 
 - [Building a Data Analyst Mindset – Udemy](https://www.udemy.com/certificate/UC-52f19f6f-e60d-4804-89c1-1f1e3882768e/)  
 - [AICE Certification – ALX](https://intranet.alxswe.com/certificates/fsThYm7pXx)
   
+---
 
+## 🛠️ Skills
+
+### 📊 Statistics & Biostatistics
+- Descriptive Statistics  
+- Hypothesis Testing  
+- Experimental Design  & Analysis
+- Correlation Analysis  
+- Regression Analysis  
+- ANOVA  
+
+### 📈 Data Visualization & Dashboards
+- Dashboard Development  
+- Interactive Dashboards (Power BI, Excel)
+- Building interactive dashboards for business insights
+- Data Storytelling & Visualization  
+
+### 🌟 Soft Skills
+- Analytical Thinking  
+- Teamwork  
+- Responsibility & Discipline  
