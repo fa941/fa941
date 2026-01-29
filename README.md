@@ -59,4 +59,15 @@ Built an interactive Power BI dashboard that identified high order cancellation 
 **Tools Used:** Power BI, Excel  
 **Project Link:** [View in GitHub](https://github.com/fa941/sales-analysis-project)
  
+--- 
+
+ ## 🏅 Certifications
  
+- [365 Data Science Certificate – 365 Data Science](https://learn.365datascience.com/certificates/CC-86C5F70042/)
+- [Database Fundamentals – Mahara Tech](https://maharatech.gov.eg/mod/customcert/view.php?id=7655&downloadown=1)  
+- [Transact SQL Queries using SQL Server – Mahara Tech](https://maharatech.gov.eg/mod/customcert/view.php?id=17032&downloadown=1)
+- [From Excel to Power BI – Coursera](https://coursera.org/verify/W7703G5HWSO0)  
+- [Building a Data Analyst Mindset – Udemy](https://www.udemy.com/certificate/UC-52f19f6f-e60d-4804-89c1-1f1e3882768e/)  
+- [AICE Certification – ALX](https://intranet.alxswe.com/certificates/fsThYm7pXx)
+  
+
