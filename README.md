@@ -51,3 +51,9 @@ I enjoy exploring data, visualizing patterns, and telling meaningful stories thr
   </div>
 
 ---
+
+## 📊 Projects
+1- 📈 Sales Analysis 
+ -Sports Equipment Store 
+ 
+ 
