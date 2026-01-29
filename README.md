@@ -54,6 +54,9 @@ I enjoy exploring data, visualizing patterns, and telling meaningful stories thr
 
 ## 📊 Projects
 1- 📈 Sales Analysis 
- -Sports Equipment Store 
+ -Sports Equipment Store  
+Built an interactive Power BI dashboard that identified high order cancellation rates compared to approved orders and major profit fluctuations between 2013 and 2014, revealing issues in customer retention, delivery, or marketing performance.  
+**Tools Used:** Power BI, Excel  
+**Project Link:** [View in GitHub](https://github.com/fa941/sales-analysis-project)
  
  
